@@ -1,0 +1,15 @@
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.csproj.AssemblyReference.cache
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.AssemblyInfoInputs.cache
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.AssemblyInfo.cs
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\heigh\Desktop\Repos\Variable\Variable\bin\Debug\net6.0\Variable.exe
+C:\Users\heigh\Desktop\Repos\Variable\Variable\bin\Debug\net6.0\Variable.deps.json
+C:\Users\heigh\Desktop\Repos\Variable\Variable\bin\Debug\net6.0\Variable.runtimeconfig.json
+C:\Users\heigh\Desktop\Repos\Variable\Variable\bin\Debug\net6.0\Variable.dll
+C:\Users\heigh\Desktop\Repos\Variable\Variable\bin\Debug\net6.0\Variable.pdb
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.dll
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\refint\Variable.dll
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.pdb
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\Variable.genruntimeconfig.cache
+C:\Users\heigh\Desktop\Repos\Variable\Variable\obj\Debug\net6.0\ref\Variable.dll
